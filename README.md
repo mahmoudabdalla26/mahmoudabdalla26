@@ -8,7 +8,7 @@
 
 ## About
 
-I'm an AI Engineer with **1.5+ years** of hands-on work across two areas that rarely sit in one person: **Generative AI & predictive ML** on one side, **Microsoft Power Platform & Azure** on the other.
+I'm an AI Engineer working hands-on across two areas that rarely sit in one person: **Generative AI & predictive ML** on one side, **Microsoft Power Platform & Azure** on the other.
 
 A model on its own is not a solution. What I care about is the system around it: where the prediction is stored, who sees it, which business rule acts on it, and whether a human reviews it before anything happens. That's why I build the whole path, from the model to the API, the Dataverse record, the app and the automated business action.
 
